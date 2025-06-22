@@ -1,6 +1,6 @@
 # AI Resume Enhancer & ATS Analyzer
 
-A powerful **Streamlit** application that leverages a local Large Language Model (LLM) via **Ollama** to analyze your resume against a job description. It provides a detailed analysis, including an ATS-friendliness score and keyword matching, and then helps you generate an improved, tailored version of your resume that you can download as a `.docx` file.
+A **Streamlit** application that leverages a local Large Language Model (LLM) via **Ollama** to analyze your resume against a job description. It provides a detailed analysis, including an ATS-friendliness score and keyword matching, and then helps you generate an improved, tailored version of your resume that you can download as a `.docx` file.
 
 ![Demo Image -1](demo-1.png)
 
